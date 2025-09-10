@@ -1,0 +1,14 @@
+/home/nicolas/Documentos/calculadora/Calculadora/bin/Debug/net9.0/Calculadora
+/home/nicolas/Documentos/calculadora/Calculadora/bin/Debug/net9.0/Calculadora.deps.json
+/home/nicolas/Documentos/calculadora/Calculadora/bin/Debug/net9.0/Calculadora.runtimeconfig.json
+/home/nicolas/Documentos/calculadora/Calculadora/bin/Debug/net9.0/Calculadora.dll
+/home/nicolas/Documentos/calculadora/Calculadora/bin/Debug/net9.0/Calculadora.pdb
+/home/nicolas/Documentos/calculadora/Calculadora/obj/Debug/net9.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documentos/calculadora/Calculadora/obj/Debug/net9.0/Calculadora.AssemblyInfoInputs.cache
+/home/nicolas/Documentos/calculadora/Calculadora/obj/Debug/net9.0/Calculadora.AssemblyInfo.cs
+/home/nicolas/Documentos/calculadora/Calculadora/obj/Debug/net9.0/Calculadora.csproj.CoreCompileInputs.cache
+/home/nicolas/Documentos/calculadora/Calculadora/obj/Debug/net9.0/Calculadora.dll
+/home/nicolas/Documentos/calculadora/Calculadora/obj/Debug/net9.0/refint/Calculadora.dll
+/home/nicolas/Documentos/calculadora/Calculadora/obj/Debug/net9.0/Calculadora.pdb
+/home/nicolas/Documentos/calculadora/Calculadora/obj/Debug/net9.0/Calculadora.genruntimeconfig.cache
+/home/nicolas/Documentos/calculadora/Calculadora/obj/Debug/net9.0/ref/Calculadora.dll
